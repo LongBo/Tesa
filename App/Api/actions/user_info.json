@@ -1,0 +1,8 @@
+{
+    "action": "user\/Info",
+    "desc": "",
+    "get": {},
+    "post": {},
+    "method": "post",
+    "needToken": 1
+}

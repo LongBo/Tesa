@@ -1,0 +1,4 @@
+composer.phar
+tags
+*.swap
+App/*/actions/_output/*.json

@@ -1,0 +1,9 @@
+{
+    "name": "Tesa",
+    
+    "autoload": {
+        "psr-4": { 
+            "Tesa\\":"./"
+           } 
+    }
+}
